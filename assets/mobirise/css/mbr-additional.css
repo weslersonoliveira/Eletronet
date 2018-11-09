@@ -5271,17 +5271,17 @@ body {
 .cid-r5ynuTyEfh .dropdown-item:hover {
   color: #2e6ae7 !important;
 }
-.cid-r5ynuUrTev {
-  padding-top: 120px;
-  padding-bottom: 60px;
+.cid-r8Ud5KZMzW {
+  padding-top: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-r5ynuUrTev .mbr-section-subtitle {
+.cid-r8Ud5KZMzW .mbr-section-subtitle {
   color: #767676;
 }
 .cid-r5ynvdcx87 {
-  padding-top: 105px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 @media (min-width: 992px) {
@@ -5372,4 +5372,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-r5ynvepY9t P {
+  color: #ababfa;
 }
