@@ -4839,43 +4839,43 @@ body {
 .cid-r4OoKeRyhX H4 {
   color: #ffffff;
 }
-.cid-r5yoHdgAen {
+.cid-r8VrKhG66C {
   padding-top: 15px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-r5yoHdgAen .content {
+  .cid-r8VrKhG66C .content {
     text-align: center;
   }
-  .cid-r5yoHdgAen .content > div:not(:last-child) {
+  .cid-r8VrKhG66C .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-r5yoHdgAen .media-wrap {
+  .cid-r8VrKhG66C .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-r5yoHdgAen .media-wrap .mbr-iconfont-logo {
+.cid-r8VrKhG66C .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-r5yoHdgAen .media-wrap img {
+.cid-r8VrKhG66C .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-r5yoHdgAen .footer-lower .copyright {
+  .cid-r8VrKhG66C .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-r5yoHdgAen .footer-lower hr {
+.cid-r8VrKhG66C .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-r5yoHdgAen .footer-lower .social-list {
+.cid-r8VrKhG66C .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -4885,27 +4885,30 @@ body {
   -webkit-justify-content: flex-end;
   -webkit-flex-wrap: wrap;
 }
-.cid-r5yoHdgAen .footer-lower .social-list .mbr-iconfont-social {
+.cid-r8VrKhG66C .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-r5yoHdgAen .footer-lower .social-list .soc-item {
+.cid-r8VrKhG66C .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-r5yoHdgAen .footer-lower .social-list a {
+.cid-r8VrKhG66C .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-r5yoHdgAen .footer-lower .social-list a:hover {
+.cid-r8VrKhG66C .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-r5yoHdgAen .footer-lower .social-list {
+  .cid-r8VrKhG66C .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-r8VrKhG66C P {
+  color: #ababfa;
 }
 .cid-r5ynuTyEfh .navbar {
   padding: .5rem 0;
